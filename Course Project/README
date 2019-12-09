@@ -1,1 +1,4 @@
-Test.ipynb contains all the instructions to generate the predictions. It outputs "Output.csv" which contains filename and it's corresponding predictions. Please see "Predictions.csv" for a sample of its output.
+The entire feature extraction and model generation process is explained in Course_project.ipynb, Please see Report.pdf for more details.
+Test.ipynb contains all the instructions to generate the predictions.
+It outputs "Output.csv" which contains filename and it's corresponding predictions. 
+Please see "Predictions.csv" for a sample of its output.
