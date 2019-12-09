@@ -1,0 +1,1 @@
+Test.ipynb contains all the instructions to generate the predictions. It outputs "Output.csv" which contains filename and it's corresponding predictions. Please see "Predictions.csv" for a sample of its output.
